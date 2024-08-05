@@ -7,8 +7,8 @@ import (
 	"testing"
 
 	"github.com/brianvoe/gofakeit/v6"
-	"github.com/catalystsquad/data-mover-core/pkg"
-	pkg2 "github.com/catalystsquad/data-mover-destination-mongodb/pkg"
+	"github.com/catalystcommunity/data-mover-core/pkg"
+	pkg2 "github.com/catalystcommunity/data-mover-destination-mongodb/pkg"
 	"github.com/orlangure/gnomock"
 	gnomockMongo "github.com/orlangure/gnomock/preset/mongo"
 	"github.com/stretchr/testify/assert"
