@@ -1,3 +1,11 @@
+## [1.1.1](https://github.com/catalystcommunity/data-mover-destination-mongodb/compare/v1.1.0...v1.1.1) (2024-11-08)
+
+
+### Bug Fixes
+
+* move to catalystcommunity ([019a5db](https://github.com/catalystcommunity/data-mover-destination-mongodb/commit/019a5dbefaec5380a1baeea4cff00043261654da))
+* update catalystcommunity dependencies versions ([#19](https://github.com/catalystcommunity/data-mover-destination-mongodb/issues/19)) ([dbe7c58](https://github.com/catalystcommunity/data-mover-destination-mongodb/commit/dbe7c58354286c76f0c5f1244eeb158e31d6cac0))
+
 # [1.1.0](https://github.com/catalystcommunity/data-mover-destination-mongodb/compare/v1.0.1...v1.1.0) (2022-09-06)
 
 
