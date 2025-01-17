@@ -1,10 +1,10 @@
-module github.com/catalystsquad/data-mover-destination-mongodb
+module github.com/catalystcommunity/data-mover-destination-mongodb
 
 go 1.21
 
 require (
 	github.com/brianvoe/gofakeit/v6 v6.15.0
-	github.com/catalystsquad/data-mover-core v1.0.0
+	github.com/catalystcommunity/data-mover-core v1.1.2
 	github.com/orlangure/gnomock v0.30.0
 	github.com/stretchr/testify v1.8.4
 	go.mongodb.org/mongo-driver v1.12.1
@@ -13,7 +13,7 @@ require (
 require (
 	github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 // indirect
 	github.com/Microsoft/go-winio v0.5.2 // indirect
-	github.com/catalystsquad/app-utils-go v1.0.4 // indirect
+	github.com/catalystcommunity/app-utils-go v1.0.9 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v24.0.9+incompatible // indirect
@@ -30,8 +30,7 @@ require (
 	github.com/opencontainers/image-spec v1.0.2 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/rs/zerolog v1.26.1 // indirect
-	github.com/sirupsen/logrus v1.8.1 // indirect
+	github.com/sirupsen/logrus v1.9.0 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.1.2 // indirect
 	github.com/xdg-go/stringprep v1.0.4 // indirect
